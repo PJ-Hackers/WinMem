@@ -50,14 +50,14 @@ pip install psutil
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/windows-memory-viewer.git
-cd windows-memory-viewer
+git clone https://github.com/PJ-Hackers/WinMem
+cd WinMem
 ```
 
 2. Run the script as Administrator:
 
 ```bash
-python memory_editor.py
+python WinMem.py
 ```
 
 > 💡 The script will automatically exit if not run on Windows.
