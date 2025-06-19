@@ -81,9 +81,9 @@ This tool is meant for educational and debugging purposes only. Editing memory o
 
 ## 🧑‍💻 Author
 
-**\[Your Name]**
-🔗 [LinkedIn](https://www.linkedin.com/in/yourusername)
-💻 [GitHub](https://github.com/yourusername)
+**\[Pranav Dave]**
+🔗 [LinkedIn](https://in.linkedin.com/in/pranavdave12)
+💻 [GitHub](https://github.com/PJ-Hackers)
 
 ---
 
