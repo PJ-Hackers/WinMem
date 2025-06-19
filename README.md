@@ -91,7 +91,3 @@ This tool is meant for educational and debugging purposes only. Editing memory o
 
 MIT License – feel free to fork, modify, and contribute.
 
----
-
-```
-
